@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
  
 import com.tcs.angularjs.model.Customer;
- 
+//controller class  
 @RestController
 public class RestWebController {
     
